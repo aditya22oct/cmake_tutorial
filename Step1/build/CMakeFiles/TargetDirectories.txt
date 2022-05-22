@@ -1,0 +1,4 @@
+/home/aditya22oct/cmake_tutorial/CMake/Help/guide/tutorial/Step1/build/CMakeFiles/rebuild_cache.dir
+/home/aditya22oct/cmake_tutorial/CMake/Help/guide/tutorial/Step1/build/CMakeFiles/edit_cache.dir
+/home/aditya22oct/cmake_tutorial/CMake/Help/guide/tutorial/Step1/build/CMakeFiles/Argc.dir
+/home/aditya22oct/cmake_tutorial/CMake/Help/guide/tutorial/Step1/build/CMakeFiles/Tutorial_.dir

@@ -1,0 +1,6 @@
+// the configured options and settings for Tutorial
+
+// between the @ symbol put project name 
+// the define doesn't really matter
+#define Tutorial_VERSION_MAJOR @Tutorial1_VERSION_MAJOR@
+#define Tutorial_VERSION_MINOR @Tutorial1_VERSION_MINOR@
